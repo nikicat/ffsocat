@@ -1,0 +1,9 @@
+{
+    "name": "ffsocat", 
+    "license": "GPL 3.0", 
+    "author": "Nikolay Bryskin", 
+    "version": "0.5", 
+    "fullName": "Firefox socat", 
+    "id": "jid1-Vi6SkABkNf8B6Q", 
+    "description": "socat-like add-on"
+}
