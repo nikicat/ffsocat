@@ -3,7 +3,7 @@
     "license": "GPL 3.0", 
     "author": "Nikolay Bryskin", 
     "version": "0.5.2", 
-    "fullName": "Firefox socat", 
+    "fullName": "ffsocat", 
     "id": "jid0-hNaMYGq36UurBUHOKuTHBk44P4g@jetpack", 
     "description": "socat-like add-on"
 }
